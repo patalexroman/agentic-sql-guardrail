@@ -109,6 +109,7 @@ try:
 except SecurityViolation as err:
     # Log de seguridad y bloqueo inmediato
     print(f"Alerta de seguridad: {err}")
+
 📂 Estructura del Proyecto
 Plaintext
 agentic-sql-guardrail/
